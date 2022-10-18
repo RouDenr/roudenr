@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 [![decordel's 42 stats](https://badge42.vercel.app/api/v2/cl2ev4w6u022209mo1ap43n5e/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
 
+[![wakatime](https://wakatime.com/badge/user/d832836d-4df9-472f-b83e-7fa9ceb948f9.svg)](https://wakatime.com/@d832836d-4df9-472f-b83e-7fa9ceb948f9)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
